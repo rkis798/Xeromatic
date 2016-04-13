@@ -6,6 +6,8 @@ The completed website should allow users to pin and unpin their favourite tweets
 
 Check out the presentation in this repo to see what we will cover - *Xeromatic.pdf*.
 
+The 'complete' version of the project can be found [here](https://github.com/beerecca/Xeromatic_Complete).
+
 It includes:
 - [WebAPI](http://www.asp.net/web-api)
 - [Twitter API](https://dev.twitter.com/rest/reference/get/statuses/user_timeline)
